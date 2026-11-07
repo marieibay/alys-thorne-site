@@ -1,0 +1,14 @@
+{
+  "name": "alys-thorne-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website of Alys Thorne - dark romantic fantasy author. Plain HTML/CSS/JS, no build step.",
+  "scripts": {
+    "dev": "http-server . -p 3000 -a 0.0.0.0 -c-1",
+    "start": "http-server . -p 3000 -a 0.0.0.0 -c-1",
+    "build": "node -e \"console.log('Static site - nothing to build')\""
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

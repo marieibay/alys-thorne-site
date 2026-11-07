@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Play the Game | Alys Thorne</title>
+<meta name="description" content="Play the Veins of Silver game by Alys Thorne on your phone. Built for touch screens.">
+<meta property="og:title" content="Play the Game | Alys Thorne">
+<meta property="og:description" content="Play the Veins of Silver game by Alys Thorne on your phone. Built for touch screens.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#07070b">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+
+</head>
+<body>
+<div id="progress"></div>
+<div id="glow"></div>
+<nav id="nav" class="solid">
+  <div class="bar">
+    <a href="index.html" class="monogram" aria-label="Alys Thorne — home">A<i>·</i>T</a>
+    <button class="burger" id="burger" aria-label="Menu"><span></span><span></span><span></span></button>
+    <ul class="navlinks" id="navlinks"><li><a href="books.html">Books</a></li><li><a href="characters.html">Characters</a></li><li><a href="lore.html">Lore &amp; World</a></li><li><a href="game.html" class="current" aria-current="page">Play</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Connect</a></li></ul>
+  </div>
+</nav>
+<header class="page-hero" style="--pbg:url(assets/img/blood-moon-city.jpg)">
+  <div class="wrap">
+    <div class="crumbs"><a href="index.html">Home</a> <i>/</i> Play</div>
+    <h1>Play the Game</h1>
+    <p class="lede">Step out of the pages and into the world of Veins of Silver.</p>
+  </div>
+</header>
+<section id="game" style="padding-top:70px;background:none;border:0"><div class="wrap">
+  <div class="game-card reveal">
+    <div class="badge">Made for touch screens</div>
+    <h2>Play on Your Phone</h2><div class="orn">✦</div>
+    <p>The Veins of Silver game is built for phones and tablets with touch controls. Open it on your device and play with your fingertips.</p>
+    <a class="btn" href="https://veins-android.vercel.app/" target="_blank" rel="noopener">Play Now</a>
+    <div class="alt">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=224x224&amp;margin=0&amp;data=https%3A%2F%2Fveins-android.vercel.app%2F" alt="QR code to open the Veins of Silver game on your phone" width="112" height="112" loading="lazy" onerror="this.parentElement.style.display='none'">
+      <span>On a computer? Scan this with your phone's camera to open the game.</span>
+    </div>
+  </div>
+  <div class="prose reveal" style="max-width:720px;margin:60px auto 0">
+    <h2>Tips</h2>
+    <ul class="plain">
+      <li>Turn your phone sideways if the game looks cramped.</li>
+      <li>Bookmark the game page in your phone's browser so you can jump back in quickly.</li>
+      <li>Want the story first? Start with <a href="blood-awakens.html">Blood Awakens</a>.</li>
+    </ul>
+  </div>
+</div></section>
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-col"><h4>Veins of Silver</h4><ul>
+        <li><a href="blood-awakens.html">Blood Awakens</a></li>
+        <li><a href="shadows-unbound.html">Shadows Unbound</a></li>
+        <li><a href="the-blood-remembers.html">The Blood Remembers</a></li></ul></div>
+      <div class="foot-col"><h4>Explore</h4><ul>
+        <li><a href="characters.html">Characters</a></li>
+        <li><a href="lore.html">Lore &amp; World</a></li>
+        <li><a href="game.html">Play the Game</a></li>
+        <li><a href="about.html">About Alys</a></li></ul></div>
+      <div class="foot-col"><h4>Find the Books</h4><ul>
+        <li><a href="https://www.amazon.com/s?i=stripbooks&amp;rh=p_27%3AAlys+Thorne" target="_blank" rel="noopener">Amazon</a></li>
+        <li><a href="https://www.thriftbooks.com/a/alys-thorne/12777436/" target="_blank" rel="noopener">ThriftBooks</a></li>
+        <li><a href="https://www.goodreads.com/search?q=Alys+Thorne" target="_blank" rel="noopener">Goodreads</a></li></ul></div>
+      <div class="foot-col"><h4>Connect</h4><ul>
+        <li><a href="contact.html">Newsletter &amp; Contact</a></li>
+        <li><a href="privacy.html">Privacy</a></li></ul></div>
+    </div>
+    <div class="copyright">© <span id="yr"></span> Alys Thorne · All rights reserved
+      <span class="credit">Moon photograph: NASA / GSFC / Arizona State University (Lunar Reconnaissance Orbiter), public domain.</span></div>
+  </div>
+</footer>
+<script src="assets/site.js"></script>
+
+</body>
+</html>
