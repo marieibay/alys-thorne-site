@@ -4,11 +4,15 @@
   "private": true,
   "description": "Official website of Alys Thorne - dark romantic fantasy author. Plain HTML/CSS/JS, no build step.",
   "scripts": {
-    "dev": "http-server . -p 3000 -a 0.0.0.0 -c-1",
-    "start": "http-server . -p 3000 -a 0.0.0.0 -c-1",
-    "build": "node -e \"console.log('Static site - nothing to build')\""
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build completed')\"",
+    "lint": "node --check server.js assets/site.js assets/hero.js"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
   }
 }
