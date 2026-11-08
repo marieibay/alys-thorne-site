@@ -5,7 +5,7 @@ const SITE = {
     tiktok: '',
     x: ''
   },
-  contactEmail: '',         // e.g. 'hello@yourdomain.com' (shows an Email button)
+  contactEmail: 'alysthorne@gmail.com',         // e.g. 'hello@yourdomain.com' (shows an Email button)
   newsletterAction: 'https://script.google.com/macros/s/AKfycbygKChDfA1rZa0gI9kVTXhKPG_D7CSbrGQLOEvqv_5F4gCXyH2it7jjZaGNW20id5td/exec'      // Google Apps Script web app that saves signups to your Google Sheet
 };
 /* ========================================================================= */
