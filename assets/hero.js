@@ -64,7 +64,7 @@ function loadRealMoon(){
     }
     og.putImageData(id,0,0);realMoon=o;moonTex=o;
   }catch(e){}};
-  im.src='https://commons.wikimedia.org/wiki/Special:FilePath/Moon_nearside_LRO.jpg?width=1400';
+  im.src='assets/img/moon.webp';
 }
 function buildMoon(){
   moonR=Math.round(Math.min(W,H)*(W<700?.2:.15));
