@@ -1,91 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/</loc>
+    <loc>https://alys-thorne-site.vercel.app/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/books.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/books</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/blood-awakens.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/veins-of-silver</loc>
     <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/shadows-unbound.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/blood-awakens</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/the-blood-remembers.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/shadows-unbound</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/characters.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/the-blood-remembers</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/tessa-cole.html</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/isolde.html</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/elenia-vein.html</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/galen.html</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/lore.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/characters</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/game.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/tessa-cole</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/about.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/isolde</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://alys-thorne-site.vercel.app/elenia-vein</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://alys-thorne-site.vercel.app/galen</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://alys-thorne-site.vercel.app/lore</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/contact.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/game</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://marieibay.github.io/alys-thorne-site/privacy.html</loc>
+    <loc>https://alys-thorne-site.vercel.app/about</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://alys-thorne-site.vercel.app/contact</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://alys-thorne-site.vercel.app/privacy</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

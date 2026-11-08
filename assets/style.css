@@ -275,3 +275,9 @@ footer{border-top:1px solid var(--line);padding:50px 0 34px}
 .faq-q{font-family:'Cinzel',serif;font-size:clamp(16px,2vw,18px);color:var(--gold);letter-spacing:.08em;margin-bottom:10px}
 .faq-a{color:#c6c9d8;font-size:16.5px;line-height:1.6}
 .faq-a a{color:var(--silver);border-bottom:1px solid var(--crimson)}
+
+/* ===== Excerpt & Content Helpers ===== */
+.excerpt-box{background:linear-gradient(180deg,rgba(22,14,24,.7),rgba(10,10,16,.9));border:1px solid var(--line);border-left:3px solid var(--crimson);padding:24px 28px;margin:28px 0;font-style:italic;color:#dedae8;font-size:17px;line-height:1.7}
+.placeholder-tag{display:inline-block;background:rgba(229,180,90,.15);border:1px dashed var(--gold);color:var(--gold);padding:3px 8px;font-family:'Cinzel',serif;font-size:12px;letter-spacing:.1em;border-radius:2px;font-style:normal}
+.updated-line{display:inline-block;font-size:13px;color:#7b7f90;font-family:'Cinzel',serif;letter-spacing:.16em;text-transform:uppercase;margin-top:24px}
+.definitional-lead{font-size:clamp(18px,2vw,21px);line-height:1.55;color:#f0edf6;margin-bottom:20px;border-left:3px solid var(--gold);padding-left:16px}

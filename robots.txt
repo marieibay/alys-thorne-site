@@ -1,11 +1,7 @@
 User-agent: *
 Allow: /
 
-# Explicitly allow major search & AI engines
 User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
 Allow: /
 
 User-agent: GPTBot
@@ -17,10 +13,10 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-SearchBot
+Allow: /
+
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: Applebot
-Allow: /
-
-Sitemap: https://marieibay.github.io/alys-thorne-site/sitemap.xml
+Sitemap: https://alys-thorne-site.vercel.app/sitemap.xml

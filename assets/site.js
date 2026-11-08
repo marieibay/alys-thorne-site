@@ -1,7 +1,7 @@
 /* ============ SITE SETTINGS — edit these, nothing else needed ============ */
 const SITE = {
   social: {                 // paste full profile URLs; empty ones stay hidden automatically
-    instagram: '',
+    instagram: 'https://www.instagram.com/alysthornebooks/',
     tiktok: '',
     x: ''
   },
